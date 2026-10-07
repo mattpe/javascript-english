@@ -10,27 +10,13 @@
 1. [JavaScript 2: Control structures](06-js2-control-structures.md)
 1. [JavaScript 3: Arrays and functions](07-js3-arrays-functions.md)
 1. [JavaScript 4: Document Object Model (DOM) and events](08-js4-dom-events.md)
-1. _TODO:_ replace DB, [Building a web server with Python](09-python-server.md)
-1. _WIP:_ [JavaScript 5: Asynchronous programming, Ajax and Open APIs](10-js5-ajax.md) 
-
-### Extra material
-
-[Some voluntary reading](extras.md)
-
-#### Recommended extra material and assignments
-
-- [Udemy, JavaScript](https://www.udemy.com/course/javascript-essentials/)
-  1. Section 1: 1-6 
-  2. Section 2: 7-10 
-  3. Section 3: 27-30
-
----
+1. [Building a web server with Python](09-python-server.md)
+1. [JavaScript 5: Asynchronous programming, Ajax and Open APIs](10-js5-ajax.md) 
 
 ## Exercises
 
-[HTML and CSS assignment](html-css-assignment.md)
-
-[JavaScript Exercise sets](js-assignments.md)
+- [HTML and CSS assignment](html-css-assignment.md)
+- [JavaScript Exercise sets](js-assignments.md)
 
 ---
 
@@ -39,6 +25,19 @@
 - [Instructions, requirements and evaluation](web-project.md)
 - [Using Git in team work](using-git-in-teams.md)
 - [Publishing Flask application on Web](flask-deployment.md)
+
+---
+
+## Extra material
+
+[Some voluntary reading](extras.md)
+
+### Recommended extra material and assignments
+
+- [Udemy, JavaScript](https://www.udemy.com/course/javascript-essentials/)
+  1. Section 1: 1-6 
+  2. Section 2: 7-10 
+  3. Section 3: 27-30
 
 ---
 

@@ -26,11 +26,13 @@ It's also ok to use one of the text-based ideas from previous course as a base.
 
 The game should have a clear objective and a playable mechanic. It can be turn-based or real-time, single-player or multiplayer, but it should be playable in a web browser.
 
+The game idea should take a Sustainable Development Goal into account in some way and be suitable for minors ("12+" rating).
+
 The project does not need to be a large or sophisticated game. **A small, complete and well-functioning application is better than a large unfinished one.**
 
-### Requirements and planning 
+### Application design and planning
 
-PAPERIPROTO
+First, the team should plan the application and design its structure and functionality. This is done using [paper prototyping](https://en.wikipedia.org/wiki/Paper_prototyping) method. Assignment and instructions for this part are found in Oma assignments.
 
 ## Minimum requirements
 
@@ -39,10 +41,11 @@ The application should:
 1. Have a clear game idea and objective.
 2. Have a playable game mechanic.
 3. Use Flask as the backend.
-4. Use JavaScript to communicate with the backend, e.g. using `fetch()`.
+4. Use JavaScript to communicate with the backend, data is transferred in JSON format.
 5. Store and update relevant game data.
 6. Have a clear and consistent user interface.
 7. Work as a complete application from start to finish.
+8. Code should be clean, well-structured and commented.
 
 ## Teamwork
 
@@ -65,18 +68,20 @@ Use Git for version control. Each team member should make meaningful contributio
 
 The team submits:
 
-- Working web application
-- Source code in Git repository
-  - Clean and well-commented code
-- README with:
-
-  - project description
-  - team members
-  - technologies used
-  - instructions for running the application
-  - short description of the division of work
+- A link to the source code in Git repository including:
+  - All project files (HTML, CSS, JS, Python, etc.)
+  - README.md file with project description:
+    - Game idea and objective
+    - Main features and functionality
+    - Team members
+    - Technologies used
+    - Instructions for running the application
+    - Short description of the division of work
+- A link to the published web application (optional, but recommended)
 
 The team will also give a short **10-15 minute presentation and demonstration** of the application.
+
+Instructions for the final submission and presentation are found in Oma assignments.
 
 ---
 
@@ -102,7 +107,7 @@ The main requirements are fulfilled and the application is functional. There may
 
 Only the basic requirements are fulfilled. The application has noticeable limitations or unfinished parts. The student's participation has been limited but sufficient to demonstrate some learning.
 
-### 1 – Poor
+### 1 – Sufficient
 
 The project is substantially incomplete or has major functional problems. The student's individual contribution and activity have been very limited.
 
@@ -122,6 +127,5 @@ Individual assessment considers:
 - Collaboration and communication within the team
 - Git commits and other evidence of development work
 - Anonymous feedback from other team members
-
 
 **All team members should be able to explain how the application works, not only their own part.**
