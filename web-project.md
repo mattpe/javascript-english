@@ -78,6 +78,7 @@ The team submits:
     - Instructions for running the application
     - Short description of the division of work
 - A link to the published web application (optional, but recommended)
+  - Make sure that the link and all the features of the application work online too before final submission.
 
 The team will also give a short **10-15 minute presentation and demonstration** of the application.
 

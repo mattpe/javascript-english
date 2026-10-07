@@ -24,7 +24,7 @@
 
 - [Instructions, requirements and evaluation](web-project.md)
 - [Using Git in team work](using-git-in-teams.md)
-- [Publishing Flask application on Web](flask-deployment.md)
+- [Publishing Flask application on the Web](flask-deployment.md)
 
 ---
 
