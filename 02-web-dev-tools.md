@@ -65,7 +65,6 @@ Handy keyboard shortcuts (finnish layout, check _File -> Preferences -> Keyboard
 - To publish your site on the internet, you need a web server
 - Metropolia provides a free web hosting service for students. You can use it to publish your assignments and portfolio.
 - You can also use other free hosting services like GitHub Pages, Netlify, Vercel etc.
-- We will go through the process of publishing your site on Metropolia's web hosting service in the following weeks.
 
 ---
 

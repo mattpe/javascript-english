@@ -24,6 +24,7 @@ You can also use Helpdesk's AI service to ask for help: <https://mikko.metropoli
 
 There are also other services that provide web-site hosting (some free options or student plans might be available), such as:
 
+- Render: <https://render.com/>
 - Azure Static Web Apps: <https://azure.microsoft.com/en-us/services/app-service/static/>
 - GitHub Pages: <https://pages.github.com/>
 - Netlify: <https://www.netlify.com/>
