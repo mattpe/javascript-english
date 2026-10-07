@@ -17,20 +17,18 @@
 
 [Some voluntary reading](extras.md)
 
-#### Recommended pre-assignments
+#### Recommended extra material and assignments
 
-1. [Udemy, JavaScript](https://www.udemy.com/course/javascript-essentials/)
-   1. Section 1: 1-6 
-   2. Section 2: 7-10 
-   3. Section 3: 27-30
+- [Udemy, JavaScript](https://www.udemy.com/course/javascript-essentials/)
+  1. Section 1: 1-6 
+  2. Section 2: 7-10 
+  3. Section 3: 27-30
 
 ---
 
 ## Exercises
 
 [HTML and CSS assignment](html-css-assignment.md)
-
-_TODO:_ Update!
 
 [JavaScript Exercise sets](js-assignments.md)
 
