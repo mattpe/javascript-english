@@ -16,7 +16,7 @@
 ## Exercises
 
 - [HTML and CSS assignment](html-css-assignment.md)
-- [JavaScript Exercise sets](js-assignments.md)
+- [Programming assignments](assignments.md)
 
 ---
 
